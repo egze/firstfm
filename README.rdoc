@@ -6,7 +6,7 @@ My main focus is to import events from Last.FM, but with time I will try to add 
 
 == Installation
 
-  sudo gem install firstfm
+  sudo gem install firstfm # doesn't work yet
   create a ~/.firstfm file with this content
   
   api_key: YOUR_API_KEY
