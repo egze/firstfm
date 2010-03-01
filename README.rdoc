@@ -1,0 +1,18 @@
+=Firstfm
+
+Firstfm is a ruby wrapper for the Last.fm APIs ( http://www.last.fm/api ). 
+
+My main focus is to import events from Last.FM, but with time I will try to add support for all API methods.
+
+== Installation
+
+  sudo gem install firstfm
+  create a ~/.firstfm file with this content
+  
+  api_key: YOUR_API_KEY
+
+== Usage
+
+  Firstfm::Venue.search("arena")
+  
+  Firstfm::Venue.get_events(8908030)

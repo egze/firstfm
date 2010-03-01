@@ -1,0 +1,32 @@
+<lfm status="ok">
+  <results for="arena" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+    <opensearch:Query role="request" searchTerms="arena" startPage="1" />
+    <opensearch:totalResults>1</opensearch:totalResults>
+    <opensearch:startIndex>0</opensearch:startIndex>
+    <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+    <venuematches>
+      <venue>
+        <id>8778545</id>
+        <name>Arena</name>
+        <location>
+          <city>Wien</city>
+          <country>Austria</country>
+          <street>Baumgasse 80</street>
+          <postalcode>1030</postalcode>
+          <geo:point>
+            <geo:lat>48.187523</geo:lat>
+            <geo:long>16.413379</geo:long>
+          </geo:point>
+        </location>
+        <url>http://www.last.fm/venue/8778545+Arena</url>
+        <website>http://www.arena.co.at</website>
+        <phonenumber></phonenumber>
+        <image size="small">http://userserve-ak.last.fm/serve/34/2149974.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64/2149974.jpg</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/2149974.jpg</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/252/2149974.jpg</image>
+        <image size="mega">http://userserve-ak.last.fm/serve/_/2149974/Arena.jpg</image>
+      </venue>
+    </venuematches>
+  </results>
+</lfm>
