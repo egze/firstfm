@@ -5,6 +5,7 @@ require 'will_paginate'
 require 'firstfm/event'
 require 'firstfm/location'
 require 'firstfm/venue'
+require 'firstfm/geo'
 
 module Firstfm
   
