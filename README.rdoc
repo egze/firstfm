@@ -20,3 +20,9 @@ My main focus is to import events from Last.FM, but with time I will try to add 
   
   Firstfm::Geo.get_events :location => "Berlin"
   
+  Firstfm::Artist.search "Eminem"
+  
+  Firstfm::Artist.get_top_tracks "Eminem"
+  
+  Firstfm::Track.search "Believe"
+  
