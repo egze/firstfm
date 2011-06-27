@@ -6,7 +6,7 @@ class TestTrack < Test::Unit::TestCase
     FakeWeb.register_uri(:get, %r|http://ws.audioscrobbler.com/|, :body => File.read(File.dirname(__FILE__) + "/fixtures/tracks.xml"))
     tracks = Firstfm::Track.search("Believe")
     assert_equal 30, tracks.size
-    assert_equal 1128, tracks.total_pages
+    assert_equal 1880, tracks.total_pages
     assert_equal 1, tracks.current_page
     assert_equal 56384, tracks.total_entries
     track = tracks.first
