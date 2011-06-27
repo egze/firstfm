@@ -17,14 +17,27 @@ Gem::Specification.new do |s|
     "README.rdoc"
   ]
   s.files = [
-    ".document",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION.yml",
+    "firstfm.gemspec",
     "lib/firstfm.rb",
-    "test/helper.rb"
+    "lib/firstfm/event.rb",
+    "lib/firstfm/geo.rb",
+    "lib/firstfm/location.rb",
+    "lib/firstfm/venue.rb",
+    "test/fixtures/event.xml",
+    "test/fixtures/events.xml",
+    "test/fixtures/geo_event.xml",
+    "test/fixtures/geo_events.xml",
+    "test/fixtures/venue.xml",
+    "test/fixtures/venues.xml",
+    "test/helper.rb",
+    "test/test_geo.rb",
+    "test/test_venue.rb"
   ]
   s.homepage = %q{http://github.com/egze/firstfm}
   s.licenses = ["MIT"]
@@ -36,26 +49,26 @@ Gem::Specification.new do |s|
     s.specification_version = 3
 
     if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
-      s.add_runtime_dependency(%q<httparty>, [">= 0.7.8"])
-      s.add_runtime_dependency(%q<will_paginate>, [">= 2.3.15"])
-      s.add_runtime_dependency(%q<active_support>, ["= 3.0.0"])
+      s.add_runtime_dependency(%q<httparty>, [">= 0"])
+      s.add_runtime_dependency(%q<will_paginate>, [">= 0"])
+      s.add_runtime_dependency(%q<active_support>, [">= 0"])
       s.add_development_dependency(%q<bundler>, ["~> 1.0.0"])
       s.add_development_dependency(%q<jeweler>, ["~> 1.6.2"])
       s.add_development_dependency(%q<rcov>, [">= 0"])
       s.add_development_dependency(%q<fakeweb>, [">= 0"])
     else
-      s.add_dependency(%q<httparty>, [">= 0.7.8"])
-      s.add_dependency(%q<will_paginate>, [">= 2.3.15"])
-      s.add_dependency(%q<active_support>, ["= 3.0.0"])
+      s.add_dependency(%q<httparty>, [">= 0"])
+      s.add_dependency(%q<will_paginate>, [">= 0"])
+      s.add_dependency(%q<active_support>, [">= 0"])
       s.add_dependency(%q<bundler>, ["~> 1.0.0"])
       s.add_dependency(%q<jeweler>, ["~> 1.6.2"])
       s.add_dependency(%q<rcov>, [">= 0"])
       s.add_dependency(%q<fakeweb>, [">= 0"])
     end
   else
-    s.add_dependency(%q<httparty>, [">= 0.7.8"])
-    s.add_dependency(%q<will_paginate>, [">= 2.3.15"])
-    s.add_dependency(%q<active_support>, ["= 3.0.0"])
+    s.add_dependency(%q<httparty>, [">= 0"])
+    s.add_dependency(%q<will_paginate>, [">= 0"])
+    s.add_dependency(%q<active_support>, [">= 0"])
     s.add_dependency(%q<bundler>, ["~> 1.0.0"])
     s.add_dependency(%q<jeweler>, ["~> 1.6.2"])
     s.add_dependency(%q<rcov>, [">= 0"])
