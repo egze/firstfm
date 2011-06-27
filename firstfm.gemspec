@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{firstfm}
-  s.version = "0.0.2"
+  s.version = "0.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Aleksandr Lossenko"]
@@ -25,18 +25,25 @@ Gem::Specification.new do |s|
     "VERSION.yml",
     "firstfm.gemspec",
     "lib/firstfm.rb",
+    "lib/firstfm/artist.rb",
     "lib/firstfm/event.rb",
     "lib/firstfm/geo.rb",
     "lib/firstfm/location.rb",
+    "lib/firstfm/track.rb",
     "lib/firstfm/venue.rb",
+    "test/fixtures/artists.xml",
     "test/fixtures/event.xml",
     "test/fixtures/events.xml",
     "test/fixtures/geo_event.xml",
     "test/fixtures/geo_events.xml",
+    "test/fixtures/top_tracks.xml",
+    "test/fixtures/tracks.xml",
     "test/fixtures/venue.xml",
     "test/fixtures/venues.xml",
     "test/helper.rb",
+    "test/test_artist.rb",
     "test/test_geo.rb",
+    "test/test_track.rb",
     "test/test_venue.rb"
   ]
   s.homepage = %q{http://github.com/egze/firstfm}
