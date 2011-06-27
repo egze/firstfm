@@ -1,6 +1,8 @@
 require 'yaml'
 require 'httparty'
 require 'will_paginate'
+require 'firstfm/track'
+require 'firstfm/artist'
 require 'firstfm/event'
 require 'firstfm/location'
 require 'firstfm/venue'

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<lfm status='ok'> 
+  <results xmlns:opensearch='http://a9.com/-/spec/opensearch/1.1/' for='cher'> 
+    <opensearch:Query searchTerms='cher' startPage='1' role='request' /> 
+    <opensearch:totalResults>424</opensearch:totalResults> 
+    <opensearch:startIndex>0</opensearch:startIndex> 
+    <opensearch:itemsPerPage>30</opensearch:itemsPerPage> 
+    <artistmatches> 
+      <artist> 
+        <name>Cher</name> 
+        <listeners>666642</listeners> 
+        <mbid>bfcc6d75-a6a5-4bc6-8282-47aec8531818</mbid> 
+        <url>http://www.last.fm/music/Cher</url> 
+        <streamable>1</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/62875209.png</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/62875209.png</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/62875209.png</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/62875209.png</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/500/62875209/Cher.png</image> 
+      </artist> 
+      <artist> 
+        <name>Sonny &amp; Cher</name> 
+        <listeners>146938</listeners> 
+        <mbid>3d6e4b6d-2700-458c-9722-9021965a8164</mbid> 
+        <url>http://www.last.fm/music/Sonny%2B%2526%2BCher</url> 
+        <streamable>1</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/244080.jpg</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/244080.jpg</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/244080.jpg</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/244080.jpg</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/_/244080/Sonny++Cher.jpg</image> 
+      </artist> 
+      <artist> 
+        <name>Cher Lloyd</name> 
+        <listeners>4803</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher+Lloyd</url> 
+        <streamable>0</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/64921624.png</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/64921624.png</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/64921624.png</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/64921624.png</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/500/64921624/Cher+Lloyd.png</image> 
+      </artist> 
+      <artist> 
+        <name>Tina Turner, Elton John, Cher</name> 
+        <listeners>3474</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Tina+Turner%2C+Elton+John%2C+Cher</url> 
+        <streamable>0</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/51873367.jpg</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/51873367.jpg</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/51873367.jpg</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/51873367.jpg</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/500/51873367/Tina+Turner+Elton+John+Cher+divaslive99front.jpg</image> 
+      </artist> 
+      <artist> 
+        <name>Meat Loaf &amp; Cher</name> 
+        <listeners>2256</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Meat%2BLoaf%2B%2526%2BCher</url> 
+        <streamable>0</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/573414.jpg</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/573414.jpg</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/573414.jpg</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/573414.jpg</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/_/573414/Meat+Loaf++Cher.jpg</image> 
+      </artist> 
+      <artist> 
+        <name>Peter Cetera &amp; Cher</name> 
+        <listeners>1136</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Peter%2BCetera%2B%2526%2BCher</url> 
+        <streamable>0</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/21678855.jpg</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/21678855.jpg</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/21678855.jpg</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/21678855.jpg</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/_/21678855/Peter+Cetera++Cher+beztytuu.jpg</image> 
+      </artist> 
+      <artist> 
+        <name>Cher --do you believe in life</name> 
+        <listeners>1073</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher+--do+you+believe+in+life</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>Cher w/ Beavis &amp; Butt-Head</name> 
+        <listeners>662</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher%2Bw%252F%2BBeavis%2B%2526%2BButt-Head</url> 
+        <streamable>0</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/3033501.jpg</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/3033501.jpg</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/3033501.jpg</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/3033501.jpg</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/_/3033501/Cher+w+Beavis++ButtHead+1b.jpg</image> 
+      </artist> 
+      <artist> 
+        <name>Cher &amp; Peter Cetra</name> 
+        <listeners>616</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher%2B%2526%2BPeter%2BCetra</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>DJ Earworm feat. Madonna, Cher, Whitney Houston</name> 
+        <listeners>615</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/DJ+Earworm+feat.+Madonna%2C+Cher%2C+Whitney+Houston</url> 
+        <streamable>0</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/58696065.png</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/58696065.png</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/58696065.png</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/58696065.png</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/_/58696065/DJ+Earworm+feat+Madonna+Cher+Whitney+Houston+lastfmkeepstatsclean.png</image> 
+      </artist> 
+      <artist> 
+        <name>Cher/Peter Cetera</name> 
+        <listeners>553</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher%252FPeter%2BCetera</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>Cher, Chrissie Hynde &amp; Neneh Cherry</name> 
+        <listeners>568</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher%252C%2BChrissie%2BHynde%2B%2526%2BNeneh%2BCherry</url> 
+        <streamable>0</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/32728887.jpg</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/32728887.jpg</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/32728887.jpg</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/32728887.jpg</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/_/32728887/Cher+Chrissie+Hynde++Neneh+Cherry+lovecanbuildabridge.jpg</image> 
+      </artist> 
+      <artist> 
+        <name>Cher With Beavis And Butthead</name> 
+        <listeners>500</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher+With+Beavis+And+Butthead</url> 
+        <streamable>0</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/560290.jpg</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/560290.jpg</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/560290.jpg</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/560290.jpg</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/_/560290/Cher+With+Beavis+And+Butthead.jpg</image> 
+      </artist> 
+      <artist> 
+        <name>Cher With Beavis And Butt-head</name> 
+        <listeners>514</listeners> 
+        <mbid>b0bafb6e-16e3-4084-920e-6e081475838d</mbid> 
+        <url>http://www.last.fm/music/Cher+With+Beavis+And+Butt-head</url> 
+        <streamable>0</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/35267195.jpg</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/35267195.jpg</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/35267195.jpg</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/35267195.jpg</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/_/35267195/Cher+With+Beavis+And+Butthead.jpg</image> 
+      </artist> 
+      <artist> 
+        <name>Cher, Chrissie Hynde &amp; Neneh Cherry with Eric Clapton</name> 
+        <listeners>486</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher%252C%2BChrissie%2BHynde%2B%2526%2BNeneh%2BCherry%2Bwith%2BEric%2BClapton</url> 
+        <streamable>0</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/29792815.jpg</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/29792815.jpg</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/29792815.jpg</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/29792815.jpg</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/_/29792815/Cher+Chrissie+Hynde++Neneh+Cherry+with+Eric+Clapto+Cher+Chrissie+Hynde++Neneh+Che.jpg</image> 
+      </artist> 
+      <artist> 
+        <name>Madonna vs. Cher vs. Whitney Houston vs. George Kranz</name> 
+        <listeners>417</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Madonna+vs.+Cher+vs.+Whitney+Houston+vs.+George+Kranz</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>Cher, Chrissie Hynde and Neneh Cherry</name> 
+        <listeners>334</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher%2C+Chrissie+Hynde+and+Neneh+Cherry</url> 
+        <streamable>1</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/39963631.png</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/39963631.png</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/39963631.png</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/39963631.png</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/_/39963631/Cher+Chrissie+Hynde+and+Neneh+Cherry+lcbab.png</image> 
+      </artist> 
+      <artist> 
+        <name>Meat Loaf (with Cher) - Dead Ringer For Love</name> 
+        <listeners>333</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Meat+Loaf+%28with+Cher%29+-+Dead+Ringer+For+Love</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>Cher/Meatloaf</name> 
+        <listeners>247</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher%252FMeatloaf</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>Peter Cetera and Cher</name> 
+        <listeners>225</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Peter+Cetera+and+Cher</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>Chér</name> 
+        <listeners>49</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Ch%C3%A9r</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>Rosie &amp; Cher</name> 
+        <listeners>156</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/+noredirect/Rosie%2B%2526%2BCher</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>Beavis &amp; Butt-Head/Cher</name> 
+        <listeners>216</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Beavis%2B%2526%2BButt-Head%252FCher</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>Cher vs. Snoop Dogg</name> 
+        <listeners>179</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher+vs.+Snoop+Dogg</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>Cher with Beavis &amp; Butthead</name> 
+        <listeners>176</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher%2Bwith%2BBeavis%2B%2526%2BButthead</url> 
+        <streamable>0</streamable> 
+        <image size='small'>http://userserve-ak.last.fm/serve/34/4227292.jpg</image> 
+        <image size='medium'>http://userserve-ak.last.fm/serve/64/4227292.jpg</image> 
+        <image size='large'>http://userserve-ak.last.fm/serve/126/4227292.jpg</image> 
+        <image size='extralarge'>http://userserve-ak.last.fm/serve/252/4227292.jpg</image> 
+        <image size='mega'>http://userserve-ak.last.fm/serve/_/4227292/Cher+with+Beavis++Butthead+Video+screenshot.jpg</image> 
+      </artist> 
+      <artist> 
+        <name>cher.</name> 
+        <listeners>14</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/cher.</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>Cher-</name> 
+        <listeners>12</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher-</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>´Cher</name> 
+        <listeners>9</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/%C2%B4Cher</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>Meat Loaf (with Cher) - Dead..</name> 
+        <listeners>189</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Meat+Loaf+%28with+Cher%29+-+Dead..</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+      <artist> 
+        <name>Cher &amp; Rosie</name> 
+        <listeners>128</listeners> 
+        <mbid></mbid> 
+        <url>http://www.last.fm/music/Cher%2B%2526%2BRosie</url> 
+        <streamable>0</streamable> 
+        <image size='small'></image> 
+        <image size='medium'></image> 
+        <image size='large'></image> 
+        <image size='extralarge'></image> 
+        <image size='mega'></image> 
+      </artist> 
+    </artistmatches> 
+  </results> 
+</lfm>
