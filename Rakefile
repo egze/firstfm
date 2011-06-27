@@ -1,22 +1,53 @@
+# encoding: utf-8
+
+require 'rubygems'
+require 'bundler'
+begin
+  Bundler.setup(:default, :development)
+rescue Bundler::BundlerError => e
+  $stderr.puts e.message
+  $stderr.puts "Run `bundle install` to install missing gems"
+  exit e.status_code
+end
 require 'rake'
 
-begin
-  require 'jeweler'
-  
-  Jeweler::Tasks.new do |gemspec|
-    gemspec.name = "firstfm"
-    gemspec.summary = "A ruby wrapper for the Last.fm APIs"
-    gemspec.description = "Firstfm is a ruby wrapper for the Last.fm APIs ( http://www.last.fm/api ). My main focus is to import events from Last.FM, but with time I will try to add support for all API methods."
-    gemspec.email = "aleksandr @nospam@ cligs.ee"
-    gemspec.homepage = "http://github.com/egze/firstfm"
-    gemspec.authors = ["Aleksandr Lossenko"]
-    gemspec.files = FileList['lib/**/*.rb']
-    
-    gemspec.add_dependency 'will_paginate', '>= 2.3.12'
-    gemspec.add_dependency 'httparty', '>= 0.5.2'
-  end
-  
-  Jeweler::GemcutterTasks.new
-rescue LoadError
-  puts "Jeweler not available. Install it with: gem install jeweler"
+require 'jeweler'
+Jeweler::Tasks.new do |gem|
+  # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
+  gem.name = "firstfm"
+  gem.homepage = "http://github.com/egze/firstfm"
+  gem.license = "MIT"
+  gem.summary = %Q{A ruby wrapper for the Last.fm APIs}
+  gem.description = %Q{Firstfm is a ruby wrapper for the Last.fm APIs ( http://www.last.fm/api ). My main focus is to import events from Last.FM, but with time I will try to add support for all API methods.}
+  gem.email = "aleksandr.lossenko@gmail.com"
+  gem.authors = ["Aleksandr Lossenko"]
+  # dependencies defined in Gemfile
+end
+Jeweler::RubygemsDotOrgTasks.new
+
+require 'rake/testtask'
+Rake::TestTask.new(:test) do |test|
+  test.libs << 'lib' << 'test'
+  test.pattern = 'test/**/test_*.rb'
+  test.verbose = true
+end
+
+require 'rcov/rcovtask'
+Rcov::RcovTask.new do |test|
+  test.libs << 'test'
+  test.pattern = 'test/**/test_*.rb'
+  test.verbose = true
+  test.rcov_opts << '--exclude "gems/*"'
+end
+
+task :default => :test
+
+require 'rake/rdoctask'
+Rake::RDocTask.new do |rdoc|
+  version = File.exist?('VERSION') ? File.read('VERSION') : ""
+
+  rdoc.rdoc_dir = 'rdoc'
+  rdoc.title = "firstfm #{version}"
+  rdoc.rdoc_files.include('README*')
+  rdoc.rdoc_files.include('lib/**/*.rb')
 end

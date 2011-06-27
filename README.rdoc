@@ -20,4 +20,3 @@ My main focus is to import events from Last.FM, but with time I will try to add 
   
   Firstfm::Geo.get_events :location => "Berlin"
   
-  

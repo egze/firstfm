@@ -1,9 +1,9 @@
-require File.dirname(__FILE__) + '/../test_helper.rb'
+require 'helper'
  
-class GeoTest < Test::Unit::TestCase
+class TestGeo < Test::Unit::TestCase
   
   def test_should_get_events
-    FakeWeb.register_uri(:get, %r|http://ws.audioscrobbler.com/|, :body => File.read(File.dirname(__FILE__) + "/../fixtures/geo_events.xml"))
+    FakeWeb.register_uri(:get, %r|http://ws.audioscrobbler.com/|, :body => File.read(File.dirname(__FILE__) + "/fixtures/geo_events.xml"))
     events = Firstfm::Geo.get_events
     assert_equal 2, events.size
     
@@ -19,7 +19,7 @@ class GeoTest < Test::Unit::TestCase
   end
   
   def test_should_get_events_with_one_event_as_result
-    FakeWeb.register_uri(:get, %r|http://ws.audioscrobbler.com/|, :body => File.read(File.dirname(__FILE__) + "/../fixtures/geo_event.xml"))
+    FakeWeb.register_uri(:get, %r|http://ws.audioscrobbler.com/|, :body => File.read(File.dirname(__FILE__) + "/fixtures/geo_event.xml"))
     events = Firstfm::Geo.get_events
     assert_equal 1, events.size
     

@@ -1,4 +1,3 @@
-require 'rubygems'
 require 'yaml'
 require 'httparty'
 require 'will_paginate'
