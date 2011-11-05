@@ -13,7 +13,7 @@ module Firstfm
       venues = response && response['lfm'] ? Venue.init_venues_from_hash(response['lfm']) : []
       collection = WillPaginate::Collection.create(page, limit) do |pager|
         pager.replace venues
-        pager.total_entries = response['lfm']['results']['opensearch:totalResults'].to_i
+        pager.total_entries = response['lfm']['results']['totalResults'].to_i
       end
     end
     

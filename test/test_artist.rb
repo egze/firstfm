@@ -36,4 +36,13 @@ class TestArtist < Test::Unit::TestCase
     assert_equal "Cher", track.artist.name
   end
   
+  def test_should_get_images
+    artist = Firstfm::Artist.new :name => "Cher"
+    
+    FakeWeb.register_uri(:get, %r|http://ws.audioscrobbler.com/|, :body => File.read(File.dirname(__FILE__) + "/fixtures/get_images.xml"))
+    images = artist.get_images
+    assert_equal 50, images.size
+    assert images.detect {|i| i.with_width(600) }
+  end
+  
 end

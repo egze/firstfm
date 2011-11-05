@@ -13,7 +13,7 @@ module Firstfm
     end
     
     def get_images(page = 1, limit = 50)
-      name_params = self.mbid.empty? ? {:artist => self.name} : {:mbid => self.mbid}
+      name_params = !self.mbid.nil? ? {:artist => self.name} : {:mbid => self.mbid}
       response = self.class.get("/2.0/", {:query => {:method => 'artist.getImages', :page => page, :limit => limit, :api_key => Firstfm::CONFIG['api_key']}.merge(name_params)})
       images_array = (response["lfm"] and response["lfm"]["images"] and response["lfm"]["images"]["image"]) || []
       images = Image.init_from_array(images_array)

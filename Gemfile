@@ -1,13 +1,13 @@
 source "http://rubygems.org"
 
-gem "httparty"
-gem "will_paginate", "~> 3.0.pre2"
-gem "activesupport", "~> 3.0.7"
+gem "httparty", "0.7.8"
+gem "will_paginate"
+gem "activesupport", "~> 3.0.10"
 gem "chronic"
 
 group :development do
-  gem "bundler", "~> 1.0.0"
-  gem "jeweler", "~> 1.6.2"
+  gem "bundler"
+  gem "jeweler"
   gem "rcov", ">= 0"
   gem "fakeweb"
 end
