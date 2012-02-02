@@ -6,6 +6,7 @@ gem "activesupport", "~> 3.0.10"
 gem "chronic"
 
 group :development do
+  gem "rake"
   gem "bundler"
   gem "jeweler"
   gem "rcov", ">= 0"

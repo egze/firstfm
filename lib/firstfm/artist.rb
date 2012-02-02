@@ -29,7 +29,7 @@ module Firstfm
       artists = Artist.init_from_array(artists_array)
       WillPaginate::Collection.create(page, limit) do |pager|
         pager.replace artists
-        pager.total_entries = response['lfm']['results']['opensearch:totalResults'].to_i
+        pager.total_entries = response['lfm']['results']['opensearch:totalResults'].to_i rescue 0
       end
     end
     
@@ -39,7 +39,7 @@ module Firstfm
       tracks = Track.init_from_array(tracks_array)
       WillPaginate::Collection.create(page, limit) do |pager|
         pager.replace tracks
-        pager.total_entries = response["lfm"]["toptracks"]["total"].to_i
+        pager.total_entries = response["lfm"]["toptracks"]["total"].to_i rescue 0
       end
     end
     

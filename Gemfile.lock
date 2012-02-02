@@ -26,5 +26,6 @@ DEPENDENCIES
   fakeweb
   httparty (= 0.7.8)
   jeweler
+  rake
   rcov
   will_paginate
