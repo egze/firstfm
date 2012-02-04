@@ -3,18 +3,7 @@ module Firstfm
   class Image
     
     attr_accessor :title, :url, :dateadded, :format, :owner_name, :owner_url, :sizes, :thumbsup, :thumbsdown, :artist
-    
-    include HTTParty
-    
-    parser(
-        Proc.new do |body, format|
-          Nokogiri::XML.parse(body)
-        end
-      )
-    
-    base_uri 'ws.audioscrobbler.com'
-    format :xml
-    
+        
     def self.init_from_array(array)
       return [] unless array.is_a?(Array)
       array.inject([]) do |arr, image|

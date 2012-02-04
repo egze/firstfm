@@ -8,6 +8,12 @@ module Firstfm
     base_uri 'ws.audioscrobbler.com'
     format :xml
     
+    parser(
+        Proc.new do |body, format|
+          Crack::XML.parse(body)
+        end
+      )
+    
     def initialize(params = {})
       @name = params[:name]
     end

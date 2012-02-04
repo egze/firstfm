@@ -14,7 +14,7 @@ module Firstfm
       tracks = Track.init_from_array(tracks_array)
       WillPaginate::Collection.create(page, limit) do |pager|
         pager.replace tracks
-        pager.total_entries = response['lfm']['results']['opensearch:totalResults'].to_i
+        pager.total_entries = response['lfm']['results']['totalResults'].to_i
       end
     end
     

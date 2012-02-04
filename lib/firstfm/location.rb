@@ -12,8 +12,8 @@ module Firstfm
       location.country      = hash["country"]
       location.postalcode   = hash["postalcode"]
       location.street       = hash["street"]
-      location.lat          = hash["geo:point"]["geo:lat"] if hash["geo:point"]
-      location.long         = hash["geo:point"]["geo:lat"] if hash["geo:point"]
+      location.lat          = hash["point"]["lat"] if hash["point"]
+      location.long         = hash["point"]["long"] if hash["point"]
       location
     end
     

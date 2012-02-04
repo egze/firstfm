@@ -1,4 +1,5 @@
 require 'yaml'
+require 'crack'
 require 'httparty'
 require 'chronic'
 require 'will_paginate/collection'
