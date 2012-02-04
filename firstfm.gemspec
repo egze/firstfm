@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "firstfm"
-  s.version = "0.2.2"
+  s.version = "0.2.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Aleksandr Lossenko"]
-  s.date = "2012-02-02"
+  s.date = "2012-02-04"
   s.description = "Firstfm is a ruby wrapper for the Last.fm APIs ( http://www.last.fm/api ). My main focus is to import events from Last.FM, but with time I will try to add support for all API methods."
   s.email = "aleksandr.lossenko@gmail.com"
   s.extra_rdoc_files = [
@@ -52,42 +52,39 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/egze/firstfm"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.10"
+  s.rubygems_version = "1.8.15"
   s.summary = "A ruby wrapper for the Last.fm APIs"
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
 
     if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
-      s.add_runtime_dependency(%q<httparty>, ["= 0.7.8"])
-      s.add_runtime_dependency(%q<will_paginate>, [">= 0"])
-      s.add_runtime_dependency(%q<activesupport>, ["~> 3.0.10"])
-      s.add_runtime_dependency(%q<chronic>, [">= 0"])
+      s.add_runtime_dependency(%q<httparty>, ["~> 0.8"])
+      s.add_runtime_dependency(%q<crack>, ["~> 0.3"])
+      s.add_runtime_dependency(%q<will_paginate>, ["~> 3.0"])
+      s.add_runtime_dependency(%q<chronic>, ["~> 0.6"])
       s.add_development_dependency(%q<rake>, [">= 0"])
       s.add_development_dependency(%q<bundler>, [">= 0"])
       s.add_development_dependency(%q<jeweler>, [">= 0"])
-      s.add_development_dependency(%q<rcov>, [">= 0"])
       s.add_development_dependency(%q<fakeweb>, [">= 0"])
     else
-      s.add_dependency(%q<httparty>, ["= 0.7.8"])
-      s.add_dependency(%q<will_paginate>, [">= 0"])
-      s.add_dependency(%q<activesupport>, ["~> 3.0.10"])
-      s.add_dependency(%q<chronic>, [">= 0"])
+      s.add_dependency(%q<httparty>, ["~> 0.8"])
+      s.add_dependency(%q<crack>, ["~> 0.3"])
+      s.add_dependency(%q<will_paginate>, ["~> 3.0"])
+      s.add_dependency(%q<chronic>, ["~> 0.6"])
       s.add_dependency(%q<rake>, [">= 0"])
       s.add_dependency(%q<bundler>, [">= 0"])
       s.add_dependency(%q<jeweler>, [">= 0"])
-      s.add_dependency(%q<rcov>, [">= 0"])
       s.add_dependency(%q<fakeweb>, [">= 0"])
     end
   else
-    s.add_dependency(%q<httparty>, ["= 0.7.8"])
-    s.add_dependency(%q<will_paginate>, [">= 0"])
-    s.add_dependency(%q<activesupport>, ["~> 3.0.10"])
-    s.add_dependency(%q<chronic>, [">= 0"])
+    s.add_dependency(%q<httparty>, ["~> 0.8"])
+    s.add_dependency(%q<crack>, ["~> 0.3"])
+    s.add_dependency(%q<will_paginate>, ["~> 3.0"])
+    s.add_dependency(%q<chronic>, ["~> 0.6"])
     s.add_dependency(%q<rake>, [">= 0"])
     s.add_dependency(%q<bundler>, [">= 0"])
     s.add_dependency(%q<jeweler>, [">= 0"])
-    s.add_dependency(%q<rcov>, [">= 0"])
     s.add_dependency(%q<fakeweb>, [">= 0"])
   end
 end
