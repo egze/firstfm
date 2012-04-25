@@ -72,8 +72,8 @@ module Firstfm
         :end => end_timestamp,
         :page => page, 
         :limit => limit, 
-        :api_key => Firstfm::CONFIG['api_key']
-      }})
+        :api_key => Firstfm::CONFIG['api_key'] }.reject {|k,v| v.nil?}
+      })
       
       artists_array = (response and response['lfm'] and response['lfm']['topartists'] and response['lfm']['topartists']['artist']) || []
       artists = Artist.init_from_array(artists_array)
