@@ -44,5 +44,14 @@ class TestArtist < Test::Unit::TestCase
     assert_equal 50, images.size
     assert images.detect {|i| i.with_width(600) }
   end
+
+  def test_should_get_tags
+    artist = Firstfm::Artist.new :name => "Cher"
+    
+    FakeWeb.register_uri(:get, %r|http://ws.audioscrobbler.com/|, :body => File.read(File.dirname(__FILE__) + "/fixtures/artist.xml"))
+    tags = artist.get_tags
+    assert_equal 5, tags.size
+    assert (tags - ["pop", "female vocalists", "80s", "dance", "rock"]).empty?
+  end
   
 end
