@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "firstfm"
-  s.version = "0.3.1"
+  s.version = "0.4.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Aleksandr Lossenko"]
-  s.date = "2012-04-25"
+  s.date = "2012-07-18"
   s.description = "Firstfm is a ruby wrapper for the Last.fm APIs ( http://www.last.fm/api ). My main focus is to import events from Last.FM, but with time I will try to add support for all API methods."
   s.email = "aleksandr.lossenko@gmail.com"
   s.extra_rdoc_files = [
@@ -33,6 +33,7 @@ Gem::Specification.new do |s|
     "lib/firstfm/location.rb",
     "lib/firstfm/track.rb",
     "lib/firstfm/venue.rb",
+    "test/fixtures/artist.xml",
     "test/fixtures/artists.xml",
     "test/fixtures/event.xml",
     "test/fixtures/events.xml",
@@ -53,7 +54,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/egze/firstfm"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.15"
+  s.rubygems_version = "1.8.24"
   s.summary = "A ruby wrapper for the Last.fm APIs"
 
   if s.respond_to? :specification_version then
