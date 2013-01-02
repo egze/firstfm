@@ -1,3 +1,5 @@
+{<img src="https://travis-ci.org/egze/firstfm.png?branch=master" alt="Build Status" />}[https://travis-ci.org/egze/firstfm]
+
 =Firstfm
 
 Firstfm is a ruby wrapper for the Last.fm APIs ( http://www.last.fm/api ). 
