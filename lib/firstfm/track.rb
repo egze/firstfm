@@ -9,7 +9,7 @@ module Firstfm
     format :xml
     
     def self.search(track, page = 1, limit = 30)
-      response = get("/2.0/", {:query => {:method => 'track.search', :track => track, :page => page, :limit => limit, :api_key => Firstfm::CONFIG['api_key']}})
+      response = get("/2.0/", {:query => {:method => 'track.search', :track => track, :page => page, :limit => limit, :api_key => Firstfm.config.api_key}})
       tracks_array = (response and response["lfm"] and response["lfm"]["results"] and response["lfm"]["results"]["trackmatches"] and response["lfm"]["results"]["trackmatches"]["track"]) || []
       tracks = Track.init_from_array(tracks_array)
       WillPaginate::Collection.create(page, limit) do |pager|

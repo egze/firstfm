@@ -9,7 +9,7 @@ module Firstfm
     format :xml
     
     def self.search(venue, page = 1, limit = 50, country = nil)
-      response = get("/2.0/", {:query => {:method => 'venue.search', :venue => venue, :page => page, :limit => limit, :country => country, :api_key => Firstfm::CONFIG['api_key']}})
+      response = get("/2.0/", {:query => {:method => 'venue.search', :venue => venue, :page => page, :limit => limit, :country => country, :api_key => Firstfm.config.api_key}})
       venues = response && response['lfm'] ? Venue.init_venues_from_hash(response['lfm']) : []
       collection = WillPaginate::Collection.create(page, limit) do |pager|
         pager.replace venues
@@ -18,7 +18,7 @@ module Firstfm
     end
     
     def self.get_events(venue_id)
-      response = get("/2.0/", {:query => {:method => 'venue.getEvents', :venue => venue_id, :api_key => Firstfm::CONFIG['api_key']}})
+      response = get("/2.0/", {:query => {:method => 'venue.getEvents', :venue => venue_id, :api_key => Firstfm.config.api_key}})
       events = response && response['lfm'] ? Event.init_events_from_hash(response['lfm']) : []
     end
     

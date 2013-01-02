@@ -20,7 +20,7 @@ module Firstfm
 
     def get_tags
       name_params = self.mbid.nil? ? {:artist => self.name} : {:mbid => self.mbid}
-      response = self.class.get("/2.0/", {:query => {:method => 'artist.getInfo', :api_key => Firstfm::CONFIG['api_key']}.merge(name_params)})
+      response = self.class.get("/2.0/", {:query => {:method => 'artist.getInfo', :api_key => Firstfm.config.api_key}.merge(name_params)})
       tags_array = (response["lfm"] and response["lfm"]["artist"] and response["lfm"]["artist"]["tags"] and response["lfm"]["artist"]["tags"]["tag"]) || []
       tags_array.map {|t| t["name"] }
     end
@@ -31,7 +31,7 @@ module Firstfm
     
     def get_images(page = 1, limit = 50)
       name_params = self.mbid.nil? ? {:artist => self.name} : {:mbid => self.mbid}
-      response = self.class.get("/2.0/", {:query => {:method => 'artist.getImages', :page => page, :limit => limit, :api_key => Firstfm::CONFIG['api_key']}.merge(name_params)})
+      response = self.class.get("/2.0/", {:query => {:method => 'artist.getImages', :page => page, :limit => limit, :api_key => Firstfm.config.api_key}.merge(name_params)})
       images_array = (response["lfm"] and response["lfm"]["images"] and response["lfm"]["images"]["image"]) || []
       images = Image.init_from_array(images_array)
       WillPaginate::Collection.create(page, limit) do |pager|
@@ -41,7 +41,7 @@ module Firstfm
     end
     
     def self.search(artist, page = 1, limit = 50)
-      response = get("/2.0/", {:query => {:method => 'artist.search', :artist => artist, :page => page, :limit => limit, :api_key => Firstfm::CONFIG['api_key']}})
+      response = get("/2.0/", {:query => {:method => 'artist.search', :artist => artist, :page => page, :limit => limit, :api_key => Firstfm.config.api_key}})
       artists_array = (response and response["lfm"] and response["lfm"]["results"] and response["lfm"]["results"]["artistmatches"] and response["lfm"]["results"]["artistmatches"]["artist"]) || []
       artists = Artist.init_from_array(artists_array)
       WillPaginate::Collection.create(page, limit) do |pager|
@@ -51,7 +51,7 @@ module Firstfm
     end
     
     def self.get_top_tracks(artist, page = 1, limit = 50)
-      response = get("/2.0/", {:query => {:method => 'artist.getTopTracks', :artist => artist, :page => page, :limit => limit, :api_key => Firstfm::CONFIG['api_key']}})
+      response = get("/2.0/", {:query => {:method => 'artist.getTopTracks', :artist => artist, :page => page, :limit => limit, :api_key => Firstfm.config.api_key}})
       tracks_array = (response and response["lfm"] and response["lfm"]["toptracks"] and response["lfm"]["toptracks"]["track"]) || []
       tracks = Track.init_from_array(tracks_array)
       WillPaginate::Collection.create(page, limit) do |pager|

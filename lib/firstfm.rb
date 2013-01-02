@@ -3,6 +3,7 @@ require 'crack'
 require 'httparty'
 require 'chronic'
 require 'will_paginate/collection'
+require 'firstfm/configuration'
 require 'firstfm/track'
 require 'firstfm/image'
 require 'firstfm/artist'
@@ -13,6 +14,6 @@ require 'firstfm/geo'
 
 module Firstfm
   
-  CONFIG = YAML::load(File.read(File.join(ENV['HOME'], '.firstfm')))
+  GH_PAGE_URL = "https://github.com/egze/firstfm"
   
 end

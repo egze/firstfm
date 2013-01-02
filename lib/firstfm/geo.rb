@@ -13,7 +13,7 @@ module Firstfm
       page = params.delete(:page) || 1
       distance = params.delete(:distance)
       
-      response = get("/2.0/", {:query => {:method => 'geo.getevents', :location => location, :page => page, :lat => lat, :lng => lng, :distance => distance, :api_key => Firstfm::CONFIG['api_key']}})
+      response = get("/2.0/", {:query => {:method => 'geo.getevents', :location => location, :page => page, :lat => lat, :lng => lng, :distance => distance, :api_key => Firstfm.config.api_key}})
       events = response && response['lfm'] ? Event.init_events_from_hash(response['lfm']) : []
       
       collection = WillPaginate::Collection.create(page, 10) do |pager|
@@ -33,7 +33,7 @@ module Firstfm
         :country => country,
         :page => page, 
         :limit => limit, 
-        :api_key => Firstfm::CONFIG['api_key']
+        :api_key => Firstfm.config.api_key
       }})
       
       artists_array = (response and response['lfm'] and response['lfm']['topartists'] and response['lfm']['topartists']['artist']) || []
@@ -72,7 +72,7 @@ module Firstfm
         :end => end_timestamp,
         :page => page, 
         :limit => limit, 
-        :api_key => Firstfm::CONFIG['api_key'] }.reject {|k,v| v.nil?}
+        :api_key => Firstfm.config.api_key }.reject {|k,v| v.nil?}
       })
       
       artists_array = (response and response['lfm'] and response['lfm']['topartists'] and response['lfm']['topartists']['artist']) || []

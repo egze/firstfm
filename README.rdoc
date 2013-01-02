@@ -8,9 +8,17 @@ My main focus is to import events from Last.FM, but with time I will try to add 
 
   sudo gem install firstfm
 
-  create a ~/.firstfm file with this content
+or add to your Gemfile
   
-  api_key: YOUR_API_KEY
+  gem 'firstfm'
+
+== Configuration
+
+This goes to your initializers/firstfm.rb
+
+  Firstfm.configure do |ffm|
+    ffm.api_key = "YOUR_KEY_HERE"
+  end
 
 == Usage
 
