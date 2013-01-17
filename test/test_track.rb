@@ -10,6 +10,7 @@ class TestTrack < Test::Unit::TestCase
     assert_equal 1, tracks.current_page
     assert_equal 56384, tracks.total_entries
     track = tracks.first
+    #raise track.inspect
     assert_equal "Believe Me Natalie", track.name
     assert_equal 494607, track.listeners
     assert_equal "http://www.last.fm/music/The+Killers/_/Believe+Me+Natalie", track.url

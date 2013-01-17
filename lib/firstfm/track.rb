@@ -34,7 +34,7 @@ module Firstfm
         track.mbid = hash["mbid"]
         track.url = hash["url"]
         track.listeners = hash["listeners"].to_i
-        track.streamable = hash["streamable"] == "1"
+        track.streamable = (hash["streamable"]["__content__"] ? hash["streamable"]["__content__"] == "1" : hash["streamable"] == "1")
         track.images = hash["image"]
         track.artist = hash["artist"].is_a?(Hash) ? Artist.init_from_hash(hash["artist"]) : Artist.new(:name => hash["artist"])
       end
