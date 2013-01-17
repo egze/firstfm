@@ -26,10 +26,10 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-  chronic (~> 0.6)
-  crack (~> 0.3)
+  chronic (~> 0.9.0)
+  crack (~> 0.3.2)
   fakeweb
-  httparty (~> 0.8)
+  httparty (~> 0.10.0)
   jeweler
   rake
-  will_paginate (~> 3.0)
+  will_paginate (~> 3.0.4)
