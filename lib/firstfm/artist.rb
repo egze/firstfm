@@ -60,6 +60,17 @@ module Firstfm
       end
     end
     
+    def self.get_correction(artist)
+      response = get("/2.0/", {:query => {:method => 'artist.getcorrection', :artist => artist, :api_key => Firstfm.config.api_key}})
+      if response && response["lfm"] && response["lfm"] && response["lfm"]["status"] == "ok"
+        if response["lfm"]["corrections"] && response["lfm"]["corrections"]["correction"]
+          init_from_hash(response["lfm"]["corrections"]["correction"]["artist"]) rescue nil
+        elsif response["lfm"].key?("corrections")
+          init_from_hash({"name" => artist})
+        end
+      end
+    end
+    
     def self.init_from_array(array)
       return [] unless array.is_a?(Array)
       array.inject([]) do |arr, artist|

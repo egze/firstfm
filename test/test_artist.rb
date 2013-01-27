@@ -54,4 +54,18 @@ class TestArtist < Test::Unit::TestCase
     assert (tags - ["pop", "female vocalists", "80s", "dance", "rock"]).empty?
   end
   
+  def test_should_get_correction
+    FakeWeb.register_uri(:get, %r|http://ws.audioscrobbler.com/|, :body => File.read(File.dirname(__FILE__) + "/fixtures/get_correction.xml"))
+    artist = Firstfm::Artist.get_correction("Guns")
+    assert_equal "Guns N' Roses", artist.name
+    assert_equal "6e40312c-2a6d-445b-b2c9-f68e86f6a0a3", artist.mbid
+    assert_equal "http://www.last.fm/music/Guns+N%27+Roses", artist.url
+  end
+  
+  def test_should_get_correction_even_if_correct
+    FakeWeb.register_uri(:get, %r|http://ws.audioscrobbler.com/|, :body => File.read(File.dirname(__FILE__) + "/fixtures/get_correction_blank.xml"))
+    artist = Firstfm::Artist.get_correction("Eminem")
+    assert_equal "Eminem", artist.name
+  end
+  
 end
