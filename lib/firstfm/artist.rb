@@ -2,7 +2,7 @@ module Firstfm
   
   class Artist
     
-    attr_accessor :name, :mbid, :url, :listeners, :streamable, :images
+    attr_accessor :name, :mbid, :url, :listeners, :streamable, :images, :playcount
    
     include HTTParty
     base_uri 'ws.audioscrobbler.com'
@@ -88,6 +88,7 @@ module Firstfm
         artist.listeners = hash["listeners"].to_i
         artist.streamable = hash["streamable"] == "1"
         artist.images = hash["image"]
+        artist.playcount = hash["playcount"].to_i
       end
     end
     

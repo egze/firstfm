@@ -11,6 +11,7 @@ require 'firstfm/event'
 require 'firstfm/location'
 require 'firstfm/venue'
 require 'firstfm/geo'
+require 'firstfm/user'
 
 module Firstfm
   
