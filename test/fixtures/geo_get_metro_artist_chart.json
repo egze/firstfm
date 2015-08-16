@@ -1,0 +1,77 @@
+{
+  "topartists": {
+    "artist": [
+      {
+        "name": "Muse",
+        "listeners": "359",
+        "mbid": "1695c115-bf3f-4014-9966-2b0c50179193",
+        "url": "http:\/\/www.last.fm\/music\/Muse",
+        "streamable": "0",
+        "image": [
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/35147389.jpg",
+            "size": "small"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/35147389.jpg",
+            "size": "medium"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/35147389.jpg",
+            "size": "large"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/35147389.jpg",
+            "size": "extralarge"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/_\/35147389\/Muse+++The+Resistance+era.jpg",
+            "size": "mega"
+          }
+        ],
+        "@attr": {
+          "rank": "1"
+        }
+      },
+      {
+        "name": "Major Lazer",
+        "listeners": "310",
+        "mbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
+        "url": "http:\/\/www.last.fm\/music\/Major+Lazer",
+        "streamable": "0",
+        "image": [
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/105065471.png",
+            "size": "small"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/105065471.png",
+            "size": "medium"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/105065471.png",
+            "size": "large"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/105065471.png",
+            "size": "extralarge"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/500\/105065471\/Major+Lazer+PNG.png",
+            "size": "mega"
+          }
+        ],
+        "@attr": {
+          "rank": "2"
+        }
+      }
+    ],
+    "@attr": {
+      "metro": "Madrid",
+      "page": "1",
+      "perPage": "50",
+      "totalPages": "10",
+      "total": "500"
+    }
+  }
+}

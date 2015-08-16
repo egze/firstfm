@@ -1,0 +1,98 @@
+{
+  "events": {
+    "event": [
+      {
+        "id": "4174420",
+        "title": "Fiestas de La Paloma",
+        "artists": {
+          "artist": "Sr. Chinarro",
+          "headliner": "Sr. Chinarro"
+        },
+        "venue": {
+          "id": "10268266",
+          "name": "Fiestas de La Paloma - Plaza de las Vistillas",
+          "location": {
+            "geo:point": {
+              "geo:lat": "40.411845",
+              "geo:long": "-3.714804"
+            },
+            "city": "Madrid",
+            "country": "Spain",
+            "street": "",
+            "postalcode": ""
+          },
+          "url": "http:\/\/www.last.fm\/venue\/10268266+Fiestas+de+La+Paloma+-+Plaza+de+las+Vistillas",
+          "website": "",
+          "phonenumber": "",
+          "image": [
+            {
+              "#text": "",
+              "size": "small"
+            },
+            {
+              "#text": "",
+              "size": "medium"
+            },
+            {
+              "#text": "",
+              "size": "large"
+            },
+            {
+              "#text": "",
+              "size": "extralarge"
+            },
+            {
+              "#text": "",
+              "size": "mega"
+            }
+          ]
+        },
+        "startDate": "Sat, 15 Aug 2015 23:30:00",
+        "description": "",
+        "image": [
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/6765143.jpg",
+            "size": "small"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/6765143.jpg",
+            "size": "medium"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/6765143.jpg",
+            "size": "large"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/6765143.jpg",
+            "size": "extralarge"
+          }
+        ],
+        "attendance": "1",
+        "reviews": "0",
+        "tag": "lastfm:event=4174420",
+        "url": "http:\/\/www.last.fm\/event\/4174420+Fiestas+de+La+Paloma",
+        "website": "",
+        "tickets": "\n  ",
+        "cancelled": "0",
+        "tags": {
+          "tag": [
+            "spanish",
+            "spanish indie pop",
+            "indie",
+            "indie pop",
+            "pop"
+          ]
+        }
+      }
+    ],
+    "@attr": {
+      "location": "Madrid, Spain",
+      "page": "1",
+      "perPage": "10",
+      "totalPages": "1",
+      "total": "1",
+      "festivalsonly": "0",
+      "tag": ""
+    }
+  }
+}

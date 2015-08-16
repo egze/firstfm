@@ -1,0 +1,229 @@
+{
+  "artist": {
+    "name": "Cher",
+    "mbid": "bfcc6d75-a6a5-4bc6-8282-47aec8531818",
+    "url": "http:\/\/www.last.fm\/music\/Cher",
+    "image": [
+      {
+        "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/34s\/ddac901158814c0a8a168449bfd985cc.png",
+        "size": "small"
+      },
+      {
+        "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/64s\/ddac901158814c0a8a168449bfd985cc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/174s\/ddac901158814c0a8a168449bfd985cc.png",
+        "size": "large"
+      },
+      {
+        "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/300x300\/ddac901158814c0a8a168449bfd985cc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/ddac901158814c0a8a168449bfd985cc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/arQ\/ddac901158814c0a8a168449bfd985cc.png",
+        "size": ""
+      }
+    ],
+    "streamable": "0",
+    "ontour": "0",
+    "stats": {
+      "listeners": "972159",
+      "playcount": "12056242"
+    },
+    "similar": {
+      "artist": [
+        {
+          "name": "Sonny & Cher",
+          "url": "http:\/\/www.last.fm\/music\/Sonny+&+Cher",
+          "image": [
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/34s\/c8c4811ce8d14ea382fc7980aff59b92.png",
+              "size": "small"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/64s\/c8c4811ce8d14ea382fc7980aff59b92.png",
+              "size": "medium"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/174s\/c8c4811ce8d14ea382fc7980aff59b92.png",
+              "size": "large"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/300x300\/c8c4811ce8d14ea382fc7980aff59b92.png",
+              "size": "extralarge"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/c8c4811ce8d14ea382fc7980aff59b92.png",
+              "size": "mega"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/arQ\/c8c4811ce8d14ea382fc7980aff59b92.png",
+              "size": ""
+            }
+          ]
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "http:\/\/www.last.fm\/music\/Kylie+Minogue",
+          "image": [
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/34s\/4ba885aaca084f4fcf36a60e47386964.png",
+              "size": "small"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/64s\/4ba885aaca084f4fcf36a60e47386964.png",
+              "size": "medium"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/174s\/4ba885aaca084f4fcf36a60e47386964.png",
+              "size": "large"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/300x300\/4ba885aaca084f4fcf36a60e47386964.png",
+              "size": "extralarge"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/4ba885aaca084f4fcf36a60e47386964.png",
+              "size": "mega"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/arQ\/4ba885aaca084f4fcf36a60e47386964.png",
+              "size": ""
+            }
+          ]
+        },
+        {
+          "name": "Madonna",
+          "url": "http:\/\/www.last.fm\/music\/Madonna",
+          "image": [
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/34s\/4f46f475e2e14e97cef1c1a6e7e0f672.png",
+              "size": "small"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/64s\/4f46f475e2e14e97cef1c1a6e7e0f672.png",
+              "size": "medium"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/174s\/4f46f475e2e14e97cef1c1a6e7e0f672.png",
+              "size": "large"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/300x300\/4f46f475e2e14e97cef1c1a6e7e0f672.png",
+              "size": "extralarge"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/4f46f475e2e14e97cef1c1a6e7e0f672.png",
+              "size": "mega"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/arQ\/4f46f475e2e14e97cef1c1a6e7e0f672.png",
+              "size": ""
+            }
+          ]
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "http:\/\/www.last.fm\/music\/C%C3%A9line+Dion",
+          "image": [
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/34s\/5560cb0f20c340be9cbf6f0d216198c2.png",
+              "size": "small"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/64s\/5560cb0f20c340be9cbf6f0d216198c2.png",
+              "size": "medium"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/174s\/5560cb0f20c340be9cbf6f0d216198c2.png",
+              "size": "large"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/300x300\/5560cb0f20c340be9cbf6f0d216198c2.png",
+              "size": "extralarge"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/5560cb0f20c340be9cbf6f0d216198c2.png",
+              "size": "mega"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/arQ\/5560cb0f20c340be9cbf6f0d216198c2.png",
+              "size": ""
+            }
+          ]
+        },
+        {
+          "name": "RuPaul",
+          "url": "http:\/\/www.last.fm\/music\/RuPaul",
+          "image": [
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/34s\/752580e7fd3f46bfac3b2180e00d7833.png",
+              "size": "small"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/64s\/752580e7fd3f46bfac3b2180e00d7833.png",
+              "size": "medium"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/174s\/752580e7fd3f46bfac3b2180e00d7833.png",
+              "size": "large"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/300x300\/752580e7fd3f46bfac3b2180e00d7833.png",
+              "size": "extralarge"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/752580e7fd3f46bfac3b2180e00d7833.png",
+              "size": "mega"
+            },
+            {
+              "#text": "http:\/\/img2-ak.lst.fm\/i\/u\/arQ\/752580e7fd3f46bfac3b2180e00d7833.png",
+              "size": ""
+            }
+          ]
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "http:\/\/www.last.fm\/tag\/pop"
+        },
+        {
+          "name": "female vocalists",
+          "url": "http:\/\/www.last.fm\/tag\/female+vocalists"
+        },
+        {
+          "name": "80s",
+          "url": "http:\/\/www.last.fm\/tag\/80s"
+        },
+        {
+          "name": "dance",
+          "url": "http:\/\/www.last.fm\/tag\/dance"
+        },
+        {
+          "name": "rock",
+          "url": "http:\/\/www.last.fm\/tag\/rock"
+        }
+      ]
+    },
+    "bio": {
+      "links": {
+        "link": {
+          "#text": "",
+          "rel": "original",
+          "href": "http:\/\/last.fm\/music\/Cher\/+wiki"
+        }
+      },
+      "published": "17 Feb 2006, 22:09",
+      "summary": "Cher (born Cherilyn Sarkisian; May 20, 1946) is an Oscar - and Grammy- winning American singer and actress. A major figure for over five decades in the world of popular culture, she is often referred to as the Goddess of Pop for having first brought the sense of female autonomy and self-actualization into the entertainment industry.\n\nShe is known for her distinctive contralto and for having worked extensively across media, as well as for continuously reinventing both her music and image, the latter of which has been known to induce controversy. <a href=\"http:\/\/www.last.fm\/music\/Cher\">Read more on Last.fm<\/a>.",
+      "content": "Cher (born Cherilyn Sarkisian; May 20, 1946) is an Oscar - and Grammy- winning American singer and actress. A major figure for over five decades in the world of popular culture, she is often referred to as the Goddess of Pop for having first brought the sense of female autonomy and self-actualization into the entertainment industry.\n\nShe is known for her distinctive contralto and for having worked extensively across media, as well as for continuously reinventing both her music and image, the latter of which has been known to induce controversy.\n\nCher first caught the eye and ear of the public in 1965 as one-half of the pop rock duo Sonny & Cher, which popularized a peculiar smooth sound that competed successfully with the predominant British Invasion and Motown Sound of the era.\n\nAfter a period in which the duo became obsolete thanks to the rise of the drug culture, she re-emerged in the 1970s as a television personality with her shows The Sonny & Cher Comedy Hour and Cher, which attained immense popularity.\n\nAt the same time, she established herself as a solo artist with million-selling hits such as \"Bang Bang (My Baby Shot Me Down)\", \"Gypsys, Tramps & Thieves\", \"Half-Breed\", and \"Dark Lady\", which dealt with unusual subjects in mainstream popular music. Throughout, she cemented her status as a fashion trendsetter with her daring outfits, and was noted as being the first woman to expose her navel on television.\n\nCher's impact at that time, as described by Phill Marder from Goldmine magazine, \"led the way to advance feminine rebellion in the rock world,\" as she was \"the prototype of the female rock star, setting the standard for appearance and ... attitude[.]\"\n\nIn the early 1980s, Cher made a critically acclaimed appearance on Broadway and starred in the film Silkwood, which earned her a nomination for the Academy Award for Best Supporting Actress in 1983.\n\nIn the following years, she became an acclaimed film actress by starring in a string of hit films that includes Mask, The Witches of Eastwick, and Moonstruck, for which she won the Academy Award for Best Actress in 1988.\n\nAt the same time, she established herself as a \"serious rock and roller\" by releasing a series of multi-platinum rock albums and hit singles such as \"I Found Someone\", \"If I Could Turn Back Time\", and \"The Shoop Shoop Song (It's in His Kiss)\".\n\nIn the 1990s, she made her directing debut with the film If These Walls Could Talk (1996) and released the biggest-selling single of her career, \"Believe\", which revolutionized recording industry because of its pioneer use of Auto-Tune (also known as the \"Cher effect\").\n\nThroughout the 2000s, she embarked on a series of concert tours that were among the highest-grossing of all-time.\n\nBiographer Mark Bego says: \"No one in the history of show business has had a career of the magnitude and scope of Cher's\".\n\nShe has won an Academy Award, a Grammy Award, an Emmy Award, three Golden Globe Awards, and the Best Actress Award at the Cannes Film Festival for her work in film, music and television. She is the only person in history to receive all of these awards.\n\nHer other ventures have included: fashion design, endorsing products, writing books, starring in fitness videos, and managing film production company Isis. Recognized as one of the best-selling music artists of all time, she has sold more than 100 million solo albums worldwide and 40 million records as Sonny & Cher.\n\nShe is the only artist to have notched a number-one single on a Billboard chart in each of the past six decades. <a href=\"http:\/\/www.last.fm\/music\/Cher\">Read more on Last.fm<\/a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

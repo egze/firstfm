@@ -1,0 +1,845 @@
+{
+  "events": {
+    "event": [
+      {
+        "id": "4174420",
+        "title": "Fiestas de La Paloma",
+        "artists": {
+          "artist": "Sr. Chinarro",
+          "headliner": "Sr. Chinarro"
+        },
+        "venue": {
+          "id": "10268266",
+          "name": "Fiestas de La Paloma - Plaza de las Vistillas",
+          "location": {
+            "geo:point": {
+              "geo:lat": "40.411845",
+              "geo:long": "-3.714804"
+            },
+            "city": "Madrid",
+            "country": "Spain",
+            "street": "",
+            "postalcode": ""
+          },
+          "url": "http:\/\/www.last.fm\/venue\/10268266+Fiestas+de+La+Paloma+-+Plaza+de+las+Vistillas",
+          "website": "",
+          "phonenumber": "",
+          "image": [
+            {
+              "#text": "",
+              "size": "small"
+            },
+            {
+              "#text": "",
+              "size": "medium"
+            },
+            {
+              "#text": "",
+              "size": "large"
+            },
+            {
+              "#text": "",
+              "size": "extralarge"
+            },
+            {
+              "#text": "",
+              "size": "mega"
+            }
+          ]
+        },
+        "startDate": "Sat, 15 Aug 2015 23:30:00",
+        "description": "",
+        "image": [
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/6765143.jpg",
+            "size": "small"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/6765143.jpg",
+            "size": "medium"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/6765143.jpg",
+            "size": "large"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/6765143.jpg",
+            "size": "extralarge"
+          }
+        ],
+        "attendance": "1",
+        "reviews": "0",
+        "tag": "lastfm:event=4174420",
+        "url": "http:\/\/www.last.fm\/event\/4174420+Fiestas+de+La+Paloma",
+        "website": "",
+        "tickets": "\n  ",
+        "cancelled": "0",
+        "tags": {
+          "tag": [
+            "spanish",
+            "spanish indie pop",
+            "indie",
+            "indie pop",
+            "pop"
+          ]
+        }
+      },
+      {
+        "id": "4076111",
+        "title": "Fuzz @ sala BUT",
+        "artists": {
+          "artist": [
+            "Fuzz",
+            "SIBERIAN WOLVES"
+          ],
+          "headliner": "Fuzz"
+        },
+        "venue": {
+          "id": "10242876",
+          "name": "But",
+          "location": {
+            "geo:point": {
+              "geo:lat": "40.426742",
+              "geo:long": "-3.699933"
+            },
+            "city": "Madrid",
+            "country": "Spain",
+            "street": "Calle de Barcel\u00f3, 11",
+            "postalcode": "28004"
+          },
+          "url": "http:\/\/www.last.fm\/venue\/10242876+But",
+          "website": "http:\/\/www.butmadrid.com",
+          "phonenumber": "914 45 58 61",
+          "image": [
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/87819535.jpg",
+              "size": "small"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/87819535.jpg",
+              "size": "medium"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/87819535.jpg",
+              "size": "large"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/87819535.jpg",
+              "size": "extralarge"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/_\/87819535\/But+_Madrid.jpg",
+              "size": "mega"
+            }
+          ]
+        },
+        "startDate": "Mon, 24 Aug 2015 20:30:00",
+        "description": "<div class=\"bbcode\">FUZZ (USA\/In The red)<br \/><br \/>Telonero: Siberian Wolves<br \/><br \/>Lunes 24 de agosto - Madrid @ Sala BUT<br \/><br \/><br \/>Desde California llegan Fuzz, un proyecto con influencias garajeras, psicod\u00e9licas acid rock, hard rock, stoner rock, noise pop\u2026 liderado por Ty Segall, quien aqu\u00ed, como bater\u00eda, cantante y principal compositor, se hace acompa\u00f1ar por el bajista Chad Ubovich y el guitarrista Charles Moothart. <br \/>Aqu\u00ed hay homenajes soterrados a Black Sabbath, King Crimson... y un gusto sorprendente por el Stoner Rock, mezclado con el fuzz y el garaje marca de la casa.<br \/><br \/>Ojo, que esto en en directo desprende un ruido intimidante, como debe de ser.<br \/><br \/><a href=\"https:\/\/www.ticketea.com\/fuzzmadrid\/\" rel=\"nofollow\">https:\/\/www.ticketea.com\/fuzzmadrid\/<\/a> <br \/><a href=\"http:\/\/entradium.com\/entradas\/fuzz-en-madrid\" rel=\"nofollow\">http:\/\/entradium.com\/entradas\/fuzz-en-madrid<\/a><\/div>",
+        "image": [
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/88715139.jpg",
+            "size": "small"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/88715139.jpg",
+            "size": "medium"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/88715139.jpg",
+            "size": "large"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/88715139.jpg",
+            "size": "extralarge"
+          }
+        ],
+        "attendance": "90",
+        "reviews": "0",
+        "tag": "lastfm:event=4076111",
+        "url": "http:\/\/www.last.fm\/event\/4076111+Fuzz+@+sala+BUT",
+        "website": "",
+        "tickets": "\n  ",
+        "cancelled": "0",
+        "tags": {
+          "tag": [
+            "garage rock",
+            "stoner rock",
+            "psychedelic rock",
+            "rock",
+            "psychedelic"
+          ]
+        }
+      },
+      {
+        "id": "4093167",
+        "title": "CLUB RESERVA presenta Natalie Prass",
+        "artists": {
+          "artist": "Natalie Prass",
+          "headliner": "Natalie Prass"
+        },
+        "venue": {
+          "id": "8786921",
+          "name": "Siroco",
+          "location": {
+            "geo:point": {
+              "geo:lat": "40.426924",
+              "geo:long": "-3.707689"
+            },
+            "city": "Madrid",
+            "country": "Spain",
+            "street": "Calle de San Dimas, 3",
+            "postalcode": "28015"
+          },
+          "url": "http:\/\/www.last.fm\/venue\/8786921+Siroco",
+          "website": "http:\/\/siroco.es",
+          "phonenumber": "+34 606 421 750",
+          "image": [
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/391301.jpg",
+              "size": "small"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/391301.jpg",
+              "size": "medium"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/391301.jpg",
+              "size": "large"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/391301.jpg",
+              "size": "extralarge"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/_\/391301\/Siroco.jpg",
+              "size": "mega"
+            }
+          ]
+        },
+        "startDate": "Tue, 25 Aug 2015 21:30:00",
+        "description": "<div class=\"bbcode\">Natalie Prass, en Madrid y Barcelona a finales de agosto<br \/>El de esta estadounidense de 28 a\u00f1os es -sin duda- uno de los nombres musicales m\u00e1s destacados de lo que llevamos de 2015, gracias a ese disco hom\u00f3nimo que ha publicado en enero y que ha puesto de acuerdo a los cuatro puntos cardinales del \u201cshowbizz\u201d. S\u00ed, hay unanimidad: se trata -sin duda, y repetimos la expresi\u00f3n- de un debut estupendo, de los que dejan huella. Un cl\u00e1sico moderno. Con esos arreglos majestuosos y con su amigo del instituto Matthew E. White coproduciendo y llevando la batuta (y tambi\u00e9n poniendo su sello, Spacebomb Records, al servicio de la causa) y con unas letras sobre el desamor y los miedos y la inseguridad que este va dejando cantadas con gran realismo y precisi\u00f3n emocional, desde una voz de \u201cprincesa emancipada de Disney\u201d (Pitchfork dixit)... As\u00ed es, Natalie Prass copa los titulares y verla en directo (damos fe) es todo un placer. Un placer que se har\u00e1 realidad el 25 de agosto en Madrid (en Siroco, dentro del ciclo Club Reserva) y al d\u00eda siguiente, el 26, en Barcelona (Sidecar). Dos conciertos para comprobar por qu\u00e9 de esta residente en Nashville (ciudad a la que ha llegado tras un periplo que la ha llevado hasta all\u00ed desde su Virginia natal, pasando por Cleveland y Boston) se van escribiendo palabras tan mayores que hasta nos dicen que su \u00e1lbum es el \u00faltimo equivalente conocido a discos como el \u201cDusty In Memphis\u201d. Solo hay que escuchar su primer corte, \u201cMy Baby Don't Understand Me\u201d, para comprender que esos tiros no van errados. Seguramente Dionne Warwick, su mayor influencia reconocida, tambi\u00e9n lo apostar\u00eda todo a esta carta.<\/div>",
+        "image": [
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/103464127.png",
+            "size": "small"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/103464127.png",
+            "size": "medium"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/103464127.png",
+            "size": "large"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/103464127.png",
+            "size": "extralarge"
+          }
+        ],
+        "attendance": "25",
+        "reviews": "0",
+        "tag": "lastfm:event=4093167",
+        "url": "http:\/\/www.last.fm\/event\/4093167+CLUB+RESERVA+presenta+Natalie+Prass",
+        "website": "http:\/\/www.houstonpartymusic.com\/webapp\/news?id=2041&beg",
+        "tickets": "\n  ",
+        "cancelled": "0",
+        "tags": {
+          "tag": [
+            "americana",
+            "fip",
+            "indie",
+            "alt-country",
+            "female vocalists"
+          ]
+        }
+      },
+      {
+        "id": "4149109",
+        "title": "Ufomammut",
+        "artists": {
+          "artist": "Ufomammut",
+          "headliner": "Ufomammut"
+        },
+        "venue": {
+          "id": "10234368",
+          "name": "Boite LIVE",
+          "location": {
+            "geo:point": {
+              "geo:lat": "40.418214",
+              "geo:long": "-3.703196"
+            },
+            "city": "Madrid",
+            "country": "Spain",
+            "street": "Calle de Tetu\u00e1n 27",
+            "postalcode": "28013"
+          },
+          "url": "http:\/\/www.last.fm\/venue\/10234368+Boite+LIVE",
+          "website": "http:\/\/www.boitelive.es",
+          "phonenumber": "915229620",
+          "image": [
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/72280446.jpg",
+              "size": "small"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/72280446.jpg",
+              "size": "medium"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/72280446.jpg",
+              "size": "large"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/72280446.jpg",
+              "size": "extralarge"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/_\/72280446\/Boite+LIVE+LaBoite009boite.jpg",
+              "size": "mega"
+            }
+          ]
+        },
+        "startDate": "Thu, 27 Aug 2015 21:00:00",
+        "description": "<div class=\"bbcode\">El tr\u00edo UFOMAMMUT se ha convertido en lo m\u00e1s interesante del Doom m\u00e1s mugriento y rockero gracias a una m\u00e1s que notable y s\u00f3lida discograf\u00eda, avalada por el propio sello de NEUROSIS. 2 \u00fanicas fechas!:<br \/>26\/Agosto - BARCELONA, Rocksound \u00b7 21:30h \u00b7 <a href=\"http:\/\/www.ontheroadmusic.es\" rel=\"nofollow\">www.ontheroadmusic.es<\/a><br \/>27\/Agosto - MADRID, Boite Live! \u00b7 21:00h \u00b7 <a href=\"http:\/\/www.ticketea.com\" rel=\"nofollow\">www.ticketea.com<\/a><br \/>+INFO: <a href=\"http:\/\/www.noiseontour.com\" rel=\"nofollow\">www.noiseontour.com<\/a><br \/><br \/>Son muchos los calificativos que podr\u00edamos emplear para definir una banda tan tremenda como el tr\u00edo italiano Ufomammut, pero uno de los sin\u00f3nimos que podriamos utilizar es \u201csideral\u201d. Quiz\u00e1 se deba a que su m\u00fasica consigue evocar con mucha claridad tanto la inmensidad como tambi\u00e9n la peligrosidad del espacio exterior, sobre todo cu\u00e1nto m\u00e1s estruendosos se ponen, porque su fuerza es tal que podr\u00eda mandarnos m\u00e1s all\u00e1 de la estratosfera con muy poco contacto, logrando un vuelo de alt\u00edsimas dimensiones y gran espectacularidad.<br \/><br \/>Su \u00faltima entrega, los 2 vol\u00famenes de su d\u00edptico &quot;Oro&quot; (Neurot Recordings, 2012), fue ya una aut\u00e9ntica animalada, pero no os pens\u00e9is que echaron el resto en esos dos discos porque aqu\u00ed llega &quot;Ecate&quot; (Neurot Recordings, 2015) para demostrar lo contrario. Hab\u00eda bastante expectaci\u00f3n ante el monstruoso trabajo que ten\u00edan entre manos los italianos a tenor de los dos brutales adelantos del mismo, y podemos decir que cumplen sobradamente con dichas expectativas.<br \/><br \/>En su s\u00e9ptimo \u00e1lbum (octavo separando las dos partes de &quot;Oro&quot;), Ufomammut se convierten en una aut\u00e9ntica m\u00e1quina de demolici\u00f3n sin misericordia, capaz de dejarnos noqueados a base de riffs tot\u00e9micos y apisonantes. A pesar de todo el rodaje que llevan a sus espaldas, su fuerza y magnetismo no se han desgastado lo m\u00e1s m\u00ednimo. Al contrario, dir\u00eda que en este disco consiguen sonar en su versi\u00f3n may\u00fascula.<br \/><br \/>El grupo ofrece una obra bastante compacta, pero que no se hace densa ni pesada al no sobrepasar los 45 minutos de duraci\u00f3n. Seis temas donde el grupo ofrece una buena gama de recursos dentro de su propio y caracter\u00edstico estilo, explorando bien sus cuatro esquinas con el buen uso del sintetizador y un buen muestrario de riffs machacones y brutales.<br \/><br \/>Pero lo m\u00e1s asombroso de UFOMAMMUT no es s\u00f3lo lo genial que suenan, sino tambi\u00e9n la propia capacidad de los italianos para seguir deslumbrandonos conforme siguen pasando los a\u00f1os y los discos. Su sublime agresividad no parece padecer s\u00edntomas de agotamiento, todo lo contrario, y ojal\u00e1 siga siendo as\u00ed en el futuro.<\/div>",
+        "image": [
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/7992661.jpg",
+            "size": "small"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/7992661.jpg",
+            "size": "medium"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/7992661.jpg",
+            "size": "large"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/7992661.jpg",
+            "size": "extralarge"
+          }
+        ],
+        "attendance": "37",
+        "reviews": "0",
+        "tag": "lastfm:event=4149109",
+        "url": "http:\/\/www.last.fm\/event\/4149109+Ufomammut+at+Boite+LIVE+on+27+August+2015",
+        "website": "http:\/\/www.noiseontour.com",
+        "tickets": "\n  ",
+        "cancelled": "0",
+        "tags": {
+          "tag": [
+            "stoner doom",
+            "stoner rock",
+            "doom metal",
+            "sludge",
+            "psychedelic"
+          ]
+        }
+      },
+      {
+        "id": "4144558",
+        "title": "DMA's",
+        "artists": {
+          "artist": "DMA's",
+          "headliner": "DMA's"
+        },
+        "venue": {
+          "id": "8786921",
+          "name": "Siroco",
+          "location": {
+            "geo:point": {
+              "geo:lat": "40.426924",
+              "geo:long": "-3.707689"
+            },
+            "city": "Madrid",
+            "country": "Spain",
+            "street": "Calle de San Dimas, 3",
+            "postalcode": "28015"
+          },
+          "url": "http:\/\/www.last.fm\/venue\/8786921+Siroco",
+          "website": "http:\/\/siroco.es",
+          "phonenumber": "+34 606 421 750",
+          "image": [
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/391301.jpg",
+              "size": "small"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/391301.jpg",
+              "size": "medium"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/391301.jpg",
+              "size": "large"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/391301.jpg",
+              "size": "extralarge"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/_\/391301\/Siroco.jpg",
+              "size": "mega"
+            }
+          ]
+        },
+        "startDate": "Thu, 27 Aug 2015 21:30:00",
+        "description": "",
+        "image": [
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/99075693.jpg",
+            "size": "small"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/99075693.jpg",
+            "size": "medium"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/99075693.jpg",
+            "size": "large"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/99075693.jpg",
+            "size": "extralarge"
+          }
+        ],
+        "attendance": "3",
+        "reviews": "0",
+        "tag": "lastfm:event=4144558",
+        "url": "http:\/\/www.last.fm\/event\/4144558+DMA%27s+at+Siroco+on+27+August+2015",
+        "website": "https:\/\/www.ticketea.com\/entradas-dmas-madrid\/",
+        "tickets": "\n  ",
+        "cancelled": "0",
+        "tags": {
+          "tag": [
+            "redaktor stelmach",
+            "all",
+            "indie",
+            "to do"
+          ]
+        }
+      },
+      {
+        "id": "4173775",
+        "title": "Fiesta estival Flor de Pasi\u00f3n",
+        "artists": {
+          "artist": [
+            "Francisco Nixon",
+            "Airbag",
+            "Wild Honey",
+            "Axolotes Mexicanos",
+            "Cristina Quesada",
+            "The Gachises"
+          ],
+          "headliner": "Francisco Nixon"
+        },
+        "venue": {
+          "id": "8786921",
+          "name": "Siroco",
+          "location": {
+            "geo:point": {
+              "geo:lat": "40.426924",
+              "geo:long": "-3.707689"
+            },
+            "city": "Madrid",
+            "country": "Spain",
+            "street": "Calle de San Dimas, 3",
+            "postalcode": "28015"
+          },
+          "url": "http:\/\/www.last.fm\/venue\/8786921+Siroco",
+          "website": "http:\/\/siroco.es",
+          "phonenumber": "+34 606 421 750",
+          "image": [
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/391301.jpg",
+              "size": "small"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/391301.jpg",
+              "size": "medium"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/391301.jpg",
+              "size": "large"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/391301.jpg",
+              "size": "extralarge"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/_\/391301\/Siroco.jpg",
+              "size": "mega"
+            }
+          ]
+        },
+        "startDate": "Sat, 29 Aug 2015 13:22:01",
+        "description": "",
+        "image": [
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/61429657.png",
+            "size": "small"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/61429657.png",
+            "size": "medium"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/61429657.png",
+            "size": "large"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/61429657.png",
+            "size": "extralarge"
+          }
+        ],
+        "attendance": "3",
+        "reviews": "0",
+        "tag": "lastfm:event=4173775",
+        "url": "http:\/\/www.last.fm\/festival\/4173775+Fiesta+estival+Flor+de+Pasi%C3%B3n",
+        "website": "",
+        "tickets": "\n  ",
+        "cancelled": "0",
+        "tags": {
+          "tag": [
+            "indie pop",
+            "indie"
+          ]
+        }
+      },
+      {
+        "id": "4128536",
+        "title": "The Warlocks",
+        "artists": {
+          "artist": [
+            "The Warlocks",
+            "Brahma-Loka"
+          ],
+          "headliner": "The Warlocks"
+        },
+        "venue": {
+          "id": "8781113",
+          "name": "Moby Dick",
+          "location": {
+            "geo:point": {
+              "geo:lat": "40.454334",
+              "geo:long": "-3.693959"
+            },
+            "city": "Madrid",
+            "country": "Spain",
+            "street": "Avda. del Brasil, 5",
+            "postalcode": "28020"
+          },
+          "url": "http:\/\/www.last.fm\/venue\/8781113+Moby+Dick",
+          "website": "http:\/\/www.mobydickclub.com",
+          "phonenumber": "+34-915 557 671",
+          "image": [
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/49473.jpg",
+              "size": "small"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/49473.jpg",
+              "size": "medium"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/49473.jpg",
+              "size": "large"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/49473.jpg",
+              "size": "extralarge"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/_\/49473\/Moby+Dick.jpg",
+              "size": "mega"
+            }
+          ]
+        },
+        "startDate": "Sat, 29 Aug 2015 21:00:00",
+        "description": "<div class=\"bbcode\">THE WARLOCKS (USA\/Cargo)<br \/>+<br \/>BRAHMA-LOKA (UK\/Interstellar Overdrive)<br \/><br \/>S\u00e1bado 29 de agosto @ Moby Dick Club<br \/>21.00 horas<br \/><br \/>Anticipada a precio promo de 12\u20ac en Entradium \/ Ticketea<br \/><br \/><a href=\"https:\/\/www.ticketea.com\/thewarlocksmadrid\/\" rel=\"nofollow\">https:\/\/www.ticketea.com\/thewarlocksmadrid\/<\/a><br \/><a href=\"http:\/\/entradium.com\/es\/entradas\/the-warlocks-brahma-loka-en-madrid\" rel=\"nofollow\">http:\/\/entradium.com\/es\/entradas\/the-warlocks-brahma-loka-en-madrid<\/a><br \/><br \/><br \/><br \/>THE WARLOCKS (USA\/Cargo)<br \/><br \/>Los angelisnos The Warlocks es una de las formaciones m\u00e1s singulares de la escena, los m\u00e1s agresivos y desafiantes en cuanto a rock psicod\u00e9lico.. Han escuchado con atenci\u00f3n los discos de bandas como Spacemen 3, Velvet Underground o Jesus and Mary Chain buscando la esencia del viaje imaginario y la tensi\u00f3n sonora hacia el nirvana.<br \/><br \/>The Warlocks proponen un potente sonido entre la psicodelia y el rock alternativo. Su singular uso de la estructura mantra o repetitiva, la pared sonora crea por sus guitarras y la base r\u00edtmica compuesta por dos bater\u00edas logran un hipn\u00f3tico efecto. Sacuden, resucitan fuegos apagados, miedos superadas, pero sus riffs son adictivos, como lo es la voz de Hecksher<br \/><br \/>BRAHMA-LOKA (UK\/Interstellar Overdrive)<br \/><br \/>Cuando se trata de m\u00fasica nueva , no hay nada m\u00e1s fresco que esta banda. Brahma- Loka , son un grupo deMossley que est\u00e1n en boca de todo el mundo de su pa\u00eds natal, y con tan s\u00f3lo poco m\u00e1s de u\u00f1o de vida.<\/div>",
+        "image": [
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/3634564.jpg",
+            "size": "small"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/3634564.jpg",
+            "size": "medium"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/3634564.jpg",
+            "size": "large"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/3634564.jpg",
+            "size": "extralarge"
+          }
+        ],
+        "attendance": "19",
+        "reviews": "0",
+        "tag": "lastfm:event=4128536",
+        "url": "http:\/\/www.last.fm\/event\/4128536+The+Warlocks+at+Moby+Dick+on+29+August+2015",
+        "website": "https:\/\/www.ticketea.com\/thewarlocksmadrid\/",
+        "tickets": "\n  ",
+        "cancelled": "0",
+        "tags": {
+          "tag": [
+            "psychedelic rock",
+            "shoegaze",
+            "psychedelic"
+          ]
+        }
+      },
+      {
+        "id": "4176774",
+        "title": "Jeremy Jay",
+        "artists": {
+          "artist": "Jeremy Jay",
+          "headliner": "Jeremy Jay"
+        },
+        "venue": {
+          "id": "10234368",
+          "name": "Boite LIVE",
+          "location": {
+            "geo:point": {
+              "geo:lat": "40.418214",
+              "geo:long": "-3.703196"
+            },
+            "city": "Madrid",
+            "country": "Spain",
+            "street": "Calle de Tetu\u00e1n 27",
+            "postalcode": "28013"
+          },
+          "url": "http:\/\/www.last.fm\/venue\/10234368+Boite+LIVE",
+          "website": "http:\/\/www.boitelive.es",
+          "phonenumber": "915229620",
+          "image": [
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/72280446.jpg",
+              "size": "small"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/72280446.jpg",
+              "size": "medium"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/72280446.jpg",
+              "size": "large"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/72280446.jpg",
+              "size": "extralarge"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/_\/72280446\/Boite+LIVE+LaBoite009boite.jpg",
+              "size": "mega"
+            }
+          ]
+        },
+        "startDate": "Fri, 04 Sep 2015 21:00:00",
+        "description": "",
+        "image": [
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/44525467.jpg",
+            "size": "small"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/44525467.jpg",
+            "size": "medium"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/44525467.jpg",
+            "size": "large"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/44525467.jpg",
+            "size": "extralarge"
+          }
+        ],
+        "attendance": "0",
+        "reviews": "0",
+        "tag": "lastfm:event=4176774",
+        "url": "http:\/\/www.last.fm\/event\/4176774+Jeremy+Jay+at+Boite+LIVE+on+4+September+2015",
+        "website": "https:\/\/www.taquilla.com\/en\/tickets\/jeremy-jay",
+        "tickets": "\n  ",
+        "cancelled": "0",
+        "tags": {
+          "tag": [
+            "twee",
+            "suicide twee-pop",
+            "indie",
+            "indie pop"
+          ]
+        }
+      },
+      {
+        "id": "4148955",
+        "title": "La Choza Fest Madrid",
+        "artists": {
+          "artist": [
+            "Adrift",
+            "Jard\u00edn de la Croix",
+            "Sonn\u00f6v",
+            "GreuS"
+          ],
+          "headliner": "Adrift"
+        },
+        "venue": {
+          "id": "8782348",
+          "name": "Caracol",
+          "location": {
+            "geo:point": {
+              "geo:lat": "40.403993",
+              "geo:long": "-3.699921"
+            },
+            "city": "Madrid",
+            "country": "Spain",
+            "street": "Bernardino Obreg\u00f3n 18",
+            "postalcode": "28012"
+          },
+          "url": "http:\/\/www.last.fm\/venue\/8782348+Caracol",
+          "website": "http:\/\/www.salacaracol.com",
+          "phonenumber": "91 528 54 71",
+          "image": [
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/3292378.gif",
+              "size": "small"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/3292378.gif",
+              "size": "medium"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/3292378.gif",
+              "size": "large"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/3292378.gif",
+              "size": "extralarge"
+            },
+            {
+              "#text": "http:\/\/userserve-ak.last.fm\/serve\/_\/3292378\/Caracol+lasala01.gif",
+              "size": "mega"
+            }
+          ]
+        },
+        "startDate": "Sat, 05 Sep 2015 12:44:01",
+        "description": "<div class=\"bbcode\">Anticipada 10\u20ac - Taquilla 14\u20ac<br \/><br \/>Organizan Nooirax Producciones, Wombat Booking y La Choza De Doe.<\/div>",
+        "image": [
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/28616637.jpg",
+            "size": "small"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/28616637.jpg",
+            "size": "medium"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/28616637.jpg",
+            "size": "large"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/28616637.jpg",
+            "size": "extralarge"
+          }
+        ],
+        "attendance": "49",
+        "reviews": "0",
+        "tag": "lastfm:event=4148955",
+        "url": "http:\/\/www.last.fm\/event\/4148955+La+Choza+Fest+Madrid",
+        "website": "",
+        "tickets": "\n  ",
+        "cancelled": "0",
+        "tags": {
+          "tag": "post-rock"
+        }
+      },
+      {
+        "id": "4161678",
+        "title": "XIV LechuRock",
+        "artists": {
+          "artist": [
+            "Hamlet",
+            "Scars of Oblivion",
+            "Sugar & Beer"
+          ],
+          "headliner": "Hamlet"
+        },
+        "venue": {
+          "id": "8801832",
+          "name": "Plaza de toros",
+          "location": {
+            "geo:point": {
+              "geo:lat": "40.382284",
+              "geo:long": "-3.415671"
+            },
+            "city": "Loeches",
+            "country": "Spain",
+            "street": "San Lorenzo, 48",
+            "postalcode": "28890"
+          },
+          "url": "http:\/\/www.last.fm\/venue\/8801832+Plaza+de+toros",
+          "website": "http:\/\/www.ayto-loeches.com\/",
+          "phonenumber": "",
+          "image": [
+            {
+              "#text": "",
+              "size": "small"
+            },
+            {
+              "#text": "",
+              "size": "medium"
+            },
+            {
+              "#text": "",
+              "size": "large"
+            },
+            {
+              "#text": "",
+              "size": "extralarge"
+            },
+            {
+              "#text": "",
+              "size": "mega"
+            }
+          ]
+        },
+        "startDate": "Sat, 05 Sep 2015 16:35:01",
+        "description": "",
+        "image": [
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/89408357.png",
+            "size": "small"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/89408357.png",
+            "size": "medium"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/89408357.png",
+            "size": "large"
+          },
+          {
+            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/89408357.png",
+            "size": "extralarge"
+          }
+        ],
+        "attendance": "1",
+        "reviews": "0",
+        "tag": "lastfm:event=4161678",
+        "url": "http:\/\/www.last.fm\/event\/4161678+XIV+LechuRock",
+        "website": "https:\/\/www.facebook.com\/events\/1455328341436369\/",
+        "tickets": "\n  ",
+        "cancelled": "0"
+      }
+    ],
+    "@attr": {
+      "location": "Madrid, Spain",
+      "page": "1",
+      "perPage": "10",
+      "totalPages": "20",
+      "total": "196",
+      "festivalsonly": "0",
+      "tag": ""
+    }
+  }
+}

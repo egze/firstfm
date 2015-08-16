@@ -1,5 +1,4 @@
 require 'yaml'
-require 'crack'
 require 'httparty'
 require 'chronic'
 require 'will_paginate/collection'
@@ -14,7 +13,7 @@ require 'firstfm/geo'
 require 'firstfm/user'
 
 module Firstfm
-  
+
   GH_PAGE_URL = "https://github.com/egze/firstfm"
-  
+
 end
